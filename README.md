@@ -1,4 +1,4 @@
-## Hi there 👋
+## I want to make my life more automated!
 
 <!--
 **TyVortex/TyVortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
